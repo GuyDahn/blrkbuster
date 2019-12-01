@@ -1,0 +1,58 @@
+body {
+    animation: text-focus-in 0.3s cubic-bezier(0.550, 0.085, 0.680, 0.530) both;
+}
+
+.movie {
+    -webkit-animation: kenburns-top 5s ease-out both;
+    animation: kenburns-top 5s ease-out both;
+}
+
+.title {
+    display: table-cell;
+    position: relative;
+    left: 5vw;
+}
+
+.rent-container {
+    padding: 20px;
+}
+
+.rented-movie {
+    display: inline-block
+}
+
+.budget {
+    display: inline;
+    font-size: 1.25em;
+}
+
+.search {
+    position: absolute;
+    left: 20px;
+    top: 15px;
+    margin-top: 30px;
+}
+
+input {
+    margin-top: 20px;
+    height: 4vh;
+}
+
+/**
+ * ----------------------------------------
+ * animation text-focus-in
+ * ----------------------------------------
+ */
+
+@-webkit-keyframes text-focus-in {
+    0% {
+        -webkit-filter: blur(12px);
+        filter: blur(12px);
+        opacity: 0;
+    }
+    100% {
+        -webkit-filter: blur(0px);
+        filter: blur(0px);
+        opacity: 1;
+    }
+}
