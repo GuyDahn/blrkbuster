@@ -31,7 +31,7 @@ Demo: https://blrkbuster.herokuapp.com/
 
 Main screen for user to select who they are.
 
-<p align="center"><img src="assets/user-select.JPG" width="600" /></p>
+<img align="center"><img src="assets/user-select.JPG" width="600" />
 
 ### Movie Catalog
 
