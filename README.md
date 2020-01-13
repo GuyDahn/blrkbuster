@@ -37,34 +37,32 @@ Main screen for user to select who they are.
 
 A user can see their budget and all the available movies to rent.
 
-<p align="center"><img src="assets/movie-catalog.JPG" width="600" /></p>
+<img align="center"><img src="assets/movie-catalog.JPG" width="600" />
 
 ### Search Filter
 
 As a user searches the movie catalog filters the movie based on the name.
 
-<p align="center"><img src="assets/search-filter.JPG" width="600" /></p>
+<img align="center"><img src="assets/search-filter.JPG" width="600" />
 
 ### Rented Movies
 
 Once a user rents a movie/s a new 'Rented' section appears on the page showing which movies they have rented.
 
-<p align="center"><img src="rented-movies.JPG" width="600" /></p>
+<img align="center"><img src="rented-movies.JPG" width="600" />
 
 ### Movie Details
 
 A user can click on a movie to see more information about the movie.
 
-<p align="center"><img src="assets/movie-details.JPG" width="600" /></p>
-
+<img align="center"><img src="assets/movie-details.JPG" width="600" />
 ### Mobile Responsive
 
 The app if fully responsive for mobile use.
 
-<p align="center"><img src="assets/responsive1.JPG" width="600" /></p>
+<img align="center"><img src="assets/responsive1.JPG" width="600" />
 
-<p align="center"><img src="assets/responsive2.JPG" width="600" /></p>
-
+<img align="center"><img src="assets/responsive2.JPG" width="600" />
 ## Techstack
 - React
 
