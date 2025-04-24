@@ -9,7 +9,7 @@
     "jest-test-runner": "git+https://github.com/Elevationacademy/jest-test-runner.git",
     "react": "^16.4.1",
     "react-dom": "^16.4.1",
-    "react-router-dom": "^4.3.1",
+    "react-router-dom": "^7.5.2",
     "react-scripts": "1.1.4"
   },
   "devDependencies": {
